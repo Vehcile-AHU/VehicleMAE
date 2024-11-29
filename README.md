@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="50%" src="https://github.com/Vehcile-AHU/VehicleMAE/blob/main/figures/logo.jpg" alt="firstIMG"/>
+  <img width="50%" src="https://github.com/Vehicle-AHU/VehicleMAE/blob/main/figures/logo.jpg" alt="firstIMG"/>
 </p> 
 
 
@@ -17,7 +17,7 @@ based on the similarity between the paired/unpaired vehicle image-text sample is
 
 
 <p align="center">
-  <img width="100%" src="https://github.com/Vehcile-AHU/VehicleMAE/blob/main/figures/firstIMG.jpg" alt="firstIMG"/>
+  <img width="100%" src="https://github.com/Vehicle-AHU/VehicleMAE/blob/main/figures/firstIMG.jpg" alt="firstIMG"/>
 </p> 
 
 
