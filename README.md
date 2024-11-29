@@ -1,13 +1,13 @@
 
 <p align="center">
-  <img width="50%" src="https://github.com/Event-AHU/VehicleMAE/blob/main/figures/logo.jpg" alt="firstIMG"/>
+  <img width="50%" src="https://github.com/Vehicle-AHU/VehicleMAE/blob/main/figures/logo.jpg" alt="firstIMG"/>
 </p> 
 
 
 
 Official PyTorch implementation of **Structural Information Guided Multimodal Pre-training for Vehicle-centric Perception**, Xiao Wang, Wentao Wu, Chenglong Li, Zhicheng Zhao, Zhe Chen, Yukai Shi, Jin Tang, AAAI-2024 
 [[arXiv](https://arxiv.org/pdf/2312.09812.pdf)] 
-[[Poster](https://github.com/Event-AHU/VehicleMAE/blob/main/VehicleMAE_poster.pdf)]
+[[Poster](https://github.com/Vehicle-AHU/VehicleMAE/blob/main/VehicleMAE_poster.pdf)]
 
 
 
@@ -28,7 +28,7 @@ based on the similarity between the paired/unpaired vehicle image-text sample is
 * **Video Tutorial for this work can be found by clicking the image below:**
 <p align="center">
   <a href="https://youtu.be/IL4KUA5NAnk?si=OMeFNq9JdDvfcOoW">
-    <img src="https://github.com/Event-AHU/VehicleMAE/blob/main/figures/VehicleMAE_tutorial_screeshot.png" alt="Tutorials" width="700"/>
+    <img src="https://github.com/Vehicle-AHU/VehicleMAE/blob/main/figures/VehicleMAE_tutorial_screeshot.png" alt="Tutorials" width="700"/>
   </a>
 </p>
 
@@ -41,7 +41,7 @@ based on the similarity between the paired/unpaired vehicle image-text sample is
 ## Our Proposed Framework VehicleMAE  
 
 <p align="center">
-  <img width="100%" src="https://github.com/Event-AHU/VehicleMAE/blob/main/figures/framework.jpg" alt="framework"/>
+  <img width="100%" src="https://github.com/Vehicle-AHU/VehicleMAE/blob/main/figures/framework.jpg" alt="framework"/>
 </p> 
 
 ## Environment Setting 
@@ -53,7 +53,7 @@ Configure the environment according to the content of the requirements.txt file.
 
 
 <p align="center">
-  <img width="100%" src="https://github.com/Event-AHU/VehicleMAE/blob/main/figures/data_show.jpg" alt="data_show"/>
+  <img width="100%" src="https://github.com/Vehicle-AHU/VehicleMAE/blob/main/figures/data_show.jpg" alt="data_show"/>
 </p> 
 
 Baidu Netdisk Link ：[download](https://pan.baidu.com/s/1VE0V6cuimfZ3qZCILwwORA?pwd=tpds)
@@ -514,11 +514,11 @@ The four downstream tasks are vehicle attribute recognition (VAR), vehicle re-id
 ## Visual Results 
 
 <p align="center">
-  <img width="80%" src="https://github.com/Event-AHU/VehicleMAE/blob/main/figures/reconst_vis.jpg" alt="reconst_vis"/>
+  <img width="80%" src="https://github.com/Vehicle-AHU/VehicleMAE/blob/main/figures/reconst_vis.jpg" alt="reconst_vis"/>
 </p> 
 
 <p align="center">
-  <img width="80%" src="https://github.com/Event-AHU/VehicleMAE/blob/main/figures/attentionmaps.jpg" alt="attentionmaps"/>
+  <img width="80%" src="https://github.com/Vehicle-AHU/VehicleMAE/blob/main/figures/attentionmaps.jpg" alt="attentionmaps"/>
 </p> 
 
 
